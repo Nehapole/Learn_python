@@ -1,0 +1,241 @@
+
+Introduction
+ Python is a general purpose high level programming language. 
+ Python was developed by Guido Van Rossam in 1989 while working at National 
+Research Institute at Netherlands.
+ But officially Python was made available to public in 1991 So Python first released is : Feb 20th 1991.
+ Python is recommended as first programming language for beginners.
+1994 = Lambda, map filter, reduce
+2000 = unicode support, generative decorator.
+2008 to latest = print  ,print( )
+
+Eg1: To print Helloworld:
+
+Java:
+
+public class HelloWorld 
+ { 
+ p s v main(String[] args) 
+ { 
+ SOP("Hello world"); 
+ } 
+ } 
+
+or
+
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello world");
+    }
+}
+
+C:
+
+#include<stdio.h> 
+ void main() 
+ { 
+ print("Hello world"); 
+ } 
+ 
+Python:
+
+print("Hello World")
+
+
+or
+
+a = Hello World
+print(a)
+
+=##=
+
+Eg2: To print the sum of 2 numbers
+0.002
+2.00
+2
+Java:
+public class Add 
+ { 
+ public static void main(String[] args) 
+ { 
+ int a,b; 
+ a =10; 
+ b=20; 
+ System.out.println("The Sum:"+(a+b)); 
+ } 
+ }
+ 
+C:
+
+ #include <stdio.h> 
+ 
+ void main() 
+ { 
+ int a,b; 
+ a =10; 
+ b=20; 
+ printf("The Sum:%d",(a+b)); 
+ } 
+
+Python:
+
+ a=10.0
+ b=20 
+ print("The Sum:",(a+b))
+ 
+ or
+ 
+ print("The Sum:",(10+20))
+ 
+  
+ 
+ 
+- The founder/father of python is Guido Van Rossam, the name Python was selected from the TV Show 
+"The Complete Monty Python's flying Circus", which was broadcasted in BBC from 1969 to 1974.
+
+Guido developed Python language by taking almost all programming features from 
+different languages
+1. Functional Programming Features from C (cython)
+2. Object Oriented Programming Features from C++
+3. Scripting Language Features from Perl and Shell Script
+4. Modular Programming Features from Modula-3
+
+
+Where we can use Python:
+We can use everywhere. The most common important application areas are
+1. For developing Desktop Applications
+2. For developing web Applications
+3. For developing database Applications
+4. For Network Programming
+5. For developing games
+6. For Data Analysis Applications
+7. For Machine Learning
+8. For developing Artificial Intelligence Applications
+9. For IOT
+
+
+Applications of python :
+1.Internally Google, instagram  and Youtube use Python coding
+2.NASA and Nework Stock Exchange Applications developed by Python.
+3.Top Software companies like Google, Microsoft, IBM, Yahoo using Python.
+
+
+Features of Python:
+
+1. Simple and easy to learn:
+- Python is a simple programming language. 
+- When we read Python program,we can feel like reading english statements.
+- The syntaxes are very simple and only 30+ kerywords are available.
+- When compared with other languages, we can write programs with very less number of 
+lines.
+- Hence more readability and simplicity.
+- We can reduce development and cost of the project.
+
+
+2. Freeware and Open Source:
+- We can use Python software without any licence and it is freeware.
+- Its source code is open,so that we can we can customize based on our requirement.
+Eg: Jython is customized version of Python to work with Java Applications.
+
+
+3. High Level Programming language:
+- Python is high level programming language and hence it is programmer friendly language.
+- Being a programmer we are not required to concentrate low level activities like memory 
+management and security etc..
+
+
+4. Platform Independent:
+- Once we write a Python program,it can run on any platform without rewriting once again.
+- Internally PVM is responsible to convert into machine understandable form.
+
+5. Portability :
+
+- Python programs are portable. ie we can migrate from one platform to another platform 
+very easily. 
+-Python programs will provide same results on any paltform.
+
+
+6. Dynamically Typed:
+In Python we are not required to declare type for variables. Whenever we are assigning 
+the value, based on value, type will be allocated automatically.
+Hence Python is considered as dynamically typed language.
+But Java, C etc are Statically Typed Languages b'z we have to provide type at the beginning 
+only.
+This dynamic typing nature will provide more flexibility to the programmer.
+
+
+7. Both Procedure Oriented and Object Oriented:
+Python language supports both Procedure oriented (like C, pascal etc) and object oriented 
+(like C++,Java) features. Hence we can get benefits of both like security and reusability etc.
+
+
+8. Interpreted:
+We are not required to compile Python programs explcitly. Internally Python interpreter 
+will take care that compilation.
+If compilation fails interpreter raised syntax errors. Once compilation success then PVM
+(Python Virtual Machine) is responsible to execute.
+
+
+9. Extensible:
+We can use other language programs in Python.
+The main advantages of this approach are:
+1. We can use already existing legacy non-Python code
+2. We can improve performance of the application.
+
+
+10. Embedded:
+We can use Python programs in any other language programs.
+i.e we can embedd Python programs anywhere.
+
+
+11. Extensive Library:
+Python has a rich inbuilt library.
+Being a programmer we can use this library directly and we are not responsible to 
+implement the functionality.
+etc...
+
+
+Limitations of Python:
+1. Performance wise not up to the mark b'z it is interpreted language.
+2. Not using for mobile Applications
+
+
+
+Flavors of Python:
+
+1.CPython:
+It is the standard flavor of Python. It can be used to work with C lanugage Applications
+
+2. Jython or JPython: (oops)
+It is for Java Applications. It can run on JVM
+
+3. IronPython:
+It is for C#.Net platform
+
+4.PyPy:
+The main advantage of PyPy is performance will be improved because JIT compiler is 
+available inside PVM.
+
+5.RubyPython
+ For Ruby Platforms
+
+6. AnacondaPython
+It is specially designed for handling large volume of data processing.
+
+
+Python Versions:
+Python 1.0V introduced in Jan 1994
+Python 2.0V introduced in October 2000
+Python 3.0V introduced in December 2008
+Note: Python 3 won't provide backward compatibility to Python2
+i.e there is no guarantee that Python2 programs will run in Python3.
+
+Current versions
+Python 3.12.0 
+
+
+
+print("python")
+
+
+
